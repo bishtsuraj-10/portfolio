@@ -33,8 +33,7 @@ This is my personal *Portfolio Website*, where I showcase my skills, small proje
 ---
 
 ## 📬 Contact Me
-📧 Email: [your-email@example.com]  
-💼 LinkedIn: [Your LinkedIn Profile Link]
+📧 Email: [bisht6993@gmail.com]  
 
 ---
 
